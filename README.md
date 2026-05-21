@@ -1,3 +1,4 @@
+###
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
@@ -5,3 +6,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
     <img src="https://github.com/Toyguna/Toyguna/blob/main/icons/sm.png" width="30" height="30">
 </div>
+
+-----------
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toyguna&theme=rose_pine)
